@@ -24,6 +24,7 @@
     "async": "2.5.0",
     "bluebird": "3.5.0",
     "mathjs": "3.15.0",
+    "moment": "2.18.1",
     "request": "2.81.0",
     "underscore": "1.8.3"
   }
